@@ -22,7 +22,7 @@ The second value for the division considered as the divisor.
 
 ## Examples
 
-![](multi.png?raw=true)
+![](div.png?raw=true)
 
 ### Notes
 > If there is an invalid number in any of the values to be divided then it will return 'NaN'.
