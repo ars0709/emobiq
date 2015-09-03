@@ -1,4 +1,4 @@
-# emobiq
+# eMobiQ
 
-[emobiq website](http://www.emobiq.com)
+[eMobiQ website](http://www.emobiq.com)
 
